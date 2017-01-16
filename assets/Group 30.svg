@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="226px" height="106px" viewBox="0 0 226 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blockly命令" transform="translate(-1459.000000, -884.000000)">
+            <g id="moveto-copy-15" transform="translate(1459.000000, 884.000000)">
+                <g id="Group-30">
+                    <path d="M26.5,100 L0,100 L0,32.9956124 L0,1.00877516 C0,0.451644023 0.446234794,0 1.0076046,0 L224.992395,0 C225.54888,0 226,0.44921875 226,1.00877516 L226,38.9912248 C226,39.548356 225.553765,40 224.992395,40 L30,40 L30,80 L123,80 L123,100 L26.5,100 Z M8,0 L22,0 L15,6 L8,0 Z M43,40 L57,40 L50,46 L43,40 Z M8,100 L22,100 L15,106 L8,100 Z M43,80 L57,80 L50,86 L43,80 Z" id="Combined-Shape" fill="#F0D13A"></path>
+                    <ellipse id="Oval-4" fill="#000000" opacity="0.100000001" cx="15" cy="20" rx="5" ry="5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
